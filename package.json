@@ -1,0 +1,19 @@
+{
+  "name": "agenciaviajenode",
+  "version": "1.0.0",
+  "description": "Primer proyecto con Node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Lautaro Muiña",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
