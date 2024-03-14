@@ -1,4 +1,4 @@
-import { Viaje } from '../models/Viaje.js';
+import  Viaje  from '../models/Viaje.js';
 
 const paginaInicio = (req, res ) => { // Req - lo que enviamos : res - lo que express nos responde
     res.render('Inicio', {
